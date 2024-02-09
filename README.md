@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-<h1 align="center" class="background-color:black>
+<h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=HI! 👋;+I'm+Md Saifur Rahman!;" />
 </h1>
 
@@ -29,6 +29,7 @@
 <br/>
 
 ## 🛠 Language and Tools
+ ![NEXTJS](https://img.shields.io/badge/NextJs-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
  ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
