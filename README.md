@@ -6,6 +6,10 @@
 <h3>I'm a passionate developer interested in various technologies.</h3>
 
 <br/>
+## ⚙️ About Me
+
+<h4>I'm a passionate Web Developer from Bangladesh.Code, Design, Innovate and Experiment is my passion. As a enthusiastic and social person I loves to take up new challenges and learn new skills. Interested in problem-solving and creating innovative solutions. Experienced in various programming languages and frameworks. Dedicated to continuous learning and growth in the ever-evolving world of technology. Open to collaboration and exploring new opportunities.</h4>
+
 
 ## ✉️ Connect with Me
 <div align="left">
@@ -55,7 +59,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **TuitionFinder Project**
+ 🔭 I’m currently working on Next Js Project **TuitionFinder Project**
  
  🌱 I’m currently learning **NextJS**
 
