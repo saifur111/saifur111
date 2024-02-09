@@ -81,11 +81,17 @@
 	<tbody>
 	   <tr>
 		<td>Fullstack Development</td>
+		<td>Running+</td>
+		<td>LearnWithSumit Ltd</td>
+		<td>React JS , Next JS</td>
+	   </tr>
+	   <tr>
+		<td>Fullstack Development</td>
 		<td>8 months+</td>
 		<td>Programming Hero</td>
 		<td>HTML,CSS,JavaScript,React JS,Tailwind</td>
 	   </tr>
-    <tr>
+    	   <tr>
 		<td>Advance Web Development</td>
 		<td>7 months+</td>
 		<td>SIMEC System Ltd.</td>
